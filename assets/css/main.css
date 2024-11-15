@@ -1671,5 +1671,4 @@ article#team {
     width: 150px; /* Adjust profile picture size */
     height: auto;
     border-radius: 50%; /* Make profile pictures circular */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional shadow for aesthetics */
 }
