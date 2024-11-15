@@ -1660,6 +1660,22 @@ input, select, textarea {
 			opacity: 0;
 		}
 
+/* Research */
+
+
+article#research {
+    text-align: justify; /* Justify the text */
+}
+
+
+/* Projects */
+
+
+article#projects {
+    text-align: justify; /* Justify the text */
+}
+
+
 /* Team */
 
 
