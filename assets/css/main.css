@@ -1667,13 +1667,6 @@ article#team {
     text-align: justify; /* Justify the text */
 }
 
-.team-member {
-    margin-bottom: 30px; /* Add space between team members */
-    display: flex;
-    align-items: flex-start;
-    gap: 20px; /* Space between image and text */
-}
-
 .image.profile img {
     width: 150px; /* Adjust profile picture size */
     height: auto;
@@ -1683,8 +1676,4 @@ article#team {
 
 .team-member h3 {
     margin-top: 0; /* Remove default top margin for better alignment */
-}
-
-.team-member p {
-    margin: 0 0 10px; /* Space between paragraphs */
 }
